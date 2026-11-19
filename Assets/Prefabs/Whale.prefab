@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7102994765918936319}
   - component: {fileID: 3085647197544566086}
   m_Layer: 0
-  m_Name: Qrcode
+  m_Name: Whale
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

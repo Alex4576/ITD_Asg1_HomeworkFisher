@@ -21,9 +21,9 @@ MonoBehaviour:
       m_GuidLow: 5665233805507674172
       m_GuidHigh: 1813134789554971309
     m_SerializedTextureGuid:
-      m_GuidLow: 12985274605939770219
-      m_GuidHigh: 4250676267194825800
+      m_GuidLow: 7189014146912838163
+      m_GuidHigh: 3041957876329244296
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
-    m_Name: Qrcode
+    m_Name: Whale
     m_Texture: {fileID: 0}
